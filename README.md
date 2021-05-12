@@ -1,1 +1,1 @@
-# 2048-Jquery-2048-vue
+# 2048-Jquery
